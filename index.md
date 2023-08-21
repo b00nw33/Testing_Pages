@@ -2,7 +2,7 @@
 title: Welcome to my blog
 ---
 
-This blog is Markdown friendly! :)
+This [blog](https://b00nw33.github.io/Testing_Pages/) is Markdown friendly! :)
 
 
 $$ x = y^2 $$
