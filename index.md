@@ -1,5 +1,6 @@
 ---
 title: Welcome to my blog
+mermaid: true
 ---
 
 This [blog](https://b00nw33.github.io/Testing_Pages/) is Markdown friendly! :)
