@@ -1,5 +1,5 @@
 theme: minima
 
-mermaid: true
+# mermaid: true
 
-enable_mathjax: true
+# enable_mathjax: true
