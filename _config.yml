@@ -2,4 +2,4 @@ theme: minima
 
 mermaid: true
 
-use_math: true
+enable_mathjax: true
